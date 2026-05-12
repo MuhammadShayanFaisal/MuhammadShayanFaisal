@@ -1,123 +1,95 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shayan Faisal</h1>
-<h3 align="center">Computer Science Student | AI & Full Stack Developer | Problem Solver 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;React+%7C+FastAPI+%7C+TypeScript;Always+Learning+New+Technologies" />
-</p>
+# Hi, I'm Shayan 👋
+
+**AI Engineer Intern Candidate · CS Undergraduate @ FAST-NUCES Karachi**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shayan%20Faisal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Muhammad-Shayan-Faisal)
+[![Email](https://img.shields.io/badge/Email-muhammadshayanfaisal%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadshayanfaisal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammadShayanFaisal-181717?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadShayanFaisal)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Science Undergraduate at **FAST-NUCES Karachi**  
-💡 Passionate about **AI/ML, Full Stack Development, and Problem Solving**  
-🧠 Interested in building intelligent systems using modern technologies  
-⚡ Love working on real-world projects and learning new tools  
-🏏 Cricket Enthusiast & Research Lover  
+I'm a Computer Science student passionate about building systems that sit at the intersection of **AI and scalable software**. I enjoy turning theoretical concepts — graph algorithms, machine learning, low-level systems — into working, tested products.
+
+Currently serving as a **Teaching Assistant at FAST-NUCES** and **App Tester at 9D Technologies**, which keeps me sharp on both the conceptual and practical sides of software engineering.
+
+> 🎯 Actively looking for **AI Engineer Intern** opportunities where I can contribute to intelligent, real-world systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- C++
-- C
-- JavaScript
-- TypeScript
-
-### 🌐 Frontend & Backend
-- React.js
-- FastAPI
-
-### 🧠 AI/ML Concepts
-- Graph Algorithms
-- Search Algorithms
-- Image Segmentation
-- Max Flow Algorithms
-
-### 🗄️ Databases
-- MySQL
-- MongoDB
-- Oracle
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Visual Studio
+```
+Languages        Python · C++ · C · JavaScript · TypeScript
+AI / ML          Graph Algorithms · Image Segmentation · Search Algorithms
+Frameworks       React.js · FastAPI
+Databases        MySQL · MongoDB · Oracle
+Tools            Git · VS Code · Visual Studio
+Core             Data Structures · Algorithms · Problem Solving
+```
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 Image Segmentation using Graph Cuts
-- Implemented graph-based max-flow algorithms
-- Applied AI techniques for image segmentation
-- Optimized graph modeling for better accuracy
+> **Python · AI · Graph Theory**
 
-### 🛒 E-Commerce Full Stack Application
-- Built using React, FastAPI, and MySQL
-- Developed scalable REST APIs
-- Designed responsive and user-friendly UI
-
-### 📚 Library Management System (MASM)
-- Developed in x86 Assembly Language
-- Focused on memory-efficient operations
-- Improved low-level execution performance
+Applied **max-flow / min-cut graph algorithms** to solve the image segmentation problem — a classic challenge in computer vision. Optimized graph construction to improve segmentation accuracy on complex datasets.
 
 ---
 
-## 💼 Experience
+### 🛒 E-Commerce Full Stack Application
+> **React.js · FastAPI · MySQL**
 
-### 👨‍🏫 Teaching Assistant — FAST-NUCES Karachi
-- Assisted in grading assignments and quizzes
-- Guided students in technical concepts
-- Improved communication between faculty and students
+End-to-end e-commerce platform with a **RESTful API backend**, relational data modeling, and a responsive React frontend. Focused on clean architecture and efficient data flow between layers.
 
-### 🧪 App Tester — 9D Technologies
-- Reported critical bugs and UI/UX issues
-- Executed structured testing procedures
-- Collaborated with developers for improvements
+---
 
-### 💻 Virtual Internship — Evosoft Tech
-- Worked on C++ programming tasks
-- Improved debugging and coding practices
-- Experienced real-world development workflows
+### 📚 Library Management System (Assembly Language)
+> **x86 Assembly · MASM**
+
+Low-level implementation of a library system — written entirely in Assembly to optimize memory usage and execution performance. A deliberate exercise in understanding what happens under the hood.
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Organization | Period |
+|---|---|---|
+| App Tester | 9D Technologies | Dec 2025 – Present |
+| Teaching Assistant | FAST-NUCES Karachi | Feb 2025 – Present |
+| Virtual Intern | Evosoft Tech | Aug – Sep 2024 |
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Dean’s List — FAST-NUCES  
-🥈 Top 35 Position — Karachi Board (Intermediate)  
-🎖️ Awarded Nishan-e-Rifat for Outstanding Academic Performance  
+- 🎓 **Dean's List** — FAST-NUCES
+- 📌 **Top 35** — Karachi Board (Intermediate)
+- 🥇 **Nishan-e-Rifat** — Awarded for outstanding academic performance
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadShayanFaisal&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayanFaisal&theme=tokyonight" alt="streak" />
-</p>
+![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShayanFaisal&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShayanFaisal&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShayanFaisal&layout=compact&hide_border=true&theme=default)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-📧 Email: muhammadshayanfaisal@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/muhammad-shayan-faisal  
-🐙 GitHub: https://github.com/MuhammadShayanFaisal
+*Open to AI/ML internship roles · Available for collaboration · Based in Karachi, Pakistan*
 
----
-
-<p align="center">
-  ⭐ “Code. Learn. Build. Repeat.” ⭐
-</p>
+</div>
